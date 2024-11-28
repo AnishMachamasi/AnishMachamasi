@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://machamasianish11.com.np/">Anish</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student.<br>
+    <br>I'm a Data Engineer.<br>
 
 </samp>
 
